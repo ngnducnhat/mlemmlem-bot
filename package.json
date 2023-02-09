@@ -1,0 +1,27 @@
+{
+  "name": "mlem-mlem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "discordjs",
+    "v14"
+  ],
+  "author": "ngnducnhat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngnducnhat/template-discordjs-v14/issues"
+  },
+  "homepage": "",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.7.1"
+  }
+}
